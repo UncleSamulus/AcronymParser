@@ -1,0 +1,22 @@
+{
+  "name": "acronymparser",
+  "version": "0.0.1",
+  "description": "Extract acronyms from text",
+  "main": "acronymparser.js",
+  "scripts": {
+    "test": "jest "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/UncleSamulus/AcronymParser.git"
+  },
+  "author": "Samuel Ortion",
+  "license": "AGPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/UncleSamulus/AcronymParser/issues"
+  },
+  "homepage": "https://github.com/UncleSamulus/AcronymParser#readme",
+  "devDependencies": {
+    "jest": "^29.5.0"
+  }
+}
